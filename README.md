@@ -1,0 +1,1 @@
+In this project, we aimed to use machine learning, specifically the Logistic Regression model, to detect breast cancer, distinguishing between malignant and benign cases. The dataset for this project is named `cancer.csv`, and it consists of real-world samples.
